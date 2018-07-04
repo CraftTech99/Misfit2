@@ -1,0 +1,29 @@
+{
+  "name": "hawkeye",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+  "node": "10.5.0",
+  "npm": "6.1.0"
+},
+"scripts": {
+ "test": "echo \"Error: no test specified\" && exit 1",
+ "start": "node index.js"
+},
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cracraftyfty/Suntsu"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "cracraftyfty",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+    "ms": "^2.1.1"
+  }
+}
